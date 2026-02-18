@@ -3,7 +3,9 @@ body{background-color: rgb(245, 199, 142);}
 h1{
   border: solid blue; padding-left: 475px;
 }
-p{padding-left: 20px;}
+p{text-align: center;}
 img{
-  padding-left: 330px;
+  max-width: 100%; 
+  height: auto;
+  align-content: center;
 }
